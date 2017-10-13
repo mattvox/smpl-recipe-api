@@ -9,8 +9,8 @@ Recipe web application developed as a minimum viable product showcasing a minima
 
 This app exists in three parts:
 
-* Client-facing frontend (You are here!)
-* Client-serving API - https://github.com/mattvox/smpl-recipe-api
+* Client-facing frontend - https://github.com/mattvox/smpl-recipe-client
+* Client-serving API - (You are here!)
 * Data management and retrieval API - https://github.com/mattvox/smpl-recipe-scraper
 
 ### Why decouple?
